@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/hotelwebsite/static/css/main.88532af6.chunk.css",
-    "main.js": "/hotelwebsite/static/js/main.b3f20c06.chunk.js",
-    "main.js.map": "/hotelwebsite/static/js/main.b3f20c06.chunk.js.map",
-    "runtime-main.js": "/hotelwebsite/static/js/runtime-main.930018be.js",
-    "runtime-main.js.map": "/hotelwebsite/static/js/runtime-main.930018be.js.map",
-    "static/js/2.209738a8.chunk.js": "/hotelwebsite/static/js/2.209738a8.chunk.js",
-    "static/js/2.209738a8.chunk.js.map": "/hotelwebsite/static/js/2.209738a8.chunk.js.map",
-    "index.html": "/hotelwebsite/index.html",
-    "static/css/main.88532af6.chunk.css.map": "/hotelwebsite/static/css/main.88532af6.chunk.css.map",
-    "static/js/2.209738a8.chunk.js.LICENSE.txt": "/hotelwebsite/static/js/2.209738a8.chunk.js.LICENSE.txt",
-    "static/media/img1.1add625b.jpg": "/hotelwebsite/static/media/img1.1add625b.jpg",
-    "static/media/img2.06ddc41a.jpeg": "/hotelwebsite/static/media/img2.06ddc41a.jpeg",
-    "static/media/img3.be65d839.jpg": "/hotelwebsite/static/media/img3.be65d839.jpg",
-    "static/media/img4.e0730304.jpg": "/hotelwebsite/static/media/img4.e0730304.jpg",
-    "static/media/imgBoudha.97a5b28b.jpg": "/hotelwebsite/static/media/imgBoudha.97a5b28b.jpg"
+    "main.css": "/static/css/main.a7aa2990.chunk.css",
+    "main.js": "/static/js/main.cb2da39a.chunk.js",
+    "main.js.map": "/static/js/main.cb2da39a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09cbba25.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09cbba25.js.map",
+    "static/css/2.093e2a57.chunk.css": "/static/css/2.093e2a57.chunk.css",
+    "static/js/2.d55a60d2.chunk.js": "/static/js/2.d55a60d2.chunk.js",
+    "static/js/2.d55a60d2.chunk.js.map": "/static/js/2.d55a60d2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.093e2a57.chunk.css.map": "/static/css/2.093e2a57.chunk.css.map",
+    "static/css/main.a7aa2990.chunk.css.map": "/static/css/main.a7aa2990.chunk.css.map",
+    "static/js/2.d55a60d2.chunk.js.LICENSE.txt": "/static/js/2.d55a60d2.chunk.js.LICENSE.txt",
+    "static/media/Avatar.9cef4e36.png": "/static/media/Avatar.9cef4e36.png",
+    "static/media/img1.06120947.jpg": "/static/media/img1.06120947.jpg",
+    "static/media/img2.f824b021.jpg": "/static/media/img2.f824b021.jpg",
+    "static/media/img3.d512dd4e.jpg": "/static/media/img3.d512dd4e.jpg",
+    "static/media/img4.10a74ca5.jpg": "/static/media/img4.10a74ca5.jpg",
+    "static/media/petsGroupImg.c237b841.jpg": "/static/media/petsGroupImg.c237b841.jpg",
+    "static/media/puppyGroupImg.b3fb31d1.jpg": "/static/media/puppyGroupImg.b3fb31d1.jpg",
+    "static/media/signUpLogiInCoverImage.236b8d9f.jpg": "/static/media/signUpLogiInCoverImage.236b8d9f.jpg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.930018be.js",
-    "static/js/2.209738a8.chunk.js",
-    "static/css/main.88532af6.chunk.css",
-    "static/js/main.b3f20c06.chunk.js"
+    "static/js/runtime-main.09cbba25.js",
+    "static/css/2.093e2a57.chunk.css",
+    "static/js/2.d55a60d2.chunk.js",
+    "static/css/main.a7aa2990.chunk.css",
+    "static/js/main.cb2da39a.chunk.js"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "name": "web-dev",
-  "homepage": "https://rajkumar182.github.io/",
+  "name": "petsmandu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +11,6 @@
     "antd": "^4.22.2",
     "autoprefixer": "^9.8.6",
     "axios": "^0.27.2",
-    "gh-pages": "^3.2.0",
     "moment": "^2.29.4",
     "postcss": "^7.0.35",
     "react": "^17.0.2",
@@ -30,8 +28,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
